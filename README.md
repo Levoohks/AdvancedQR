@@ -10,7 +10,7 @@ A Simple QR Creator - (Many functions will be added)
 - Create QR Codes
 
 # License
-Public GNU License
+GPL-3.0 License
 
 # Tools
 This software was written in C# using Visual Studio and Firesharp as Database
